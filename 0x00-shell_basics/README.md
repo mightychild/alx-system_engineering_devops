@@ -1,1 +1,4 @@
-Task 0 where am I?
+#0x00 shell basics
+
+#Task 0
+Creating a script that print our current working directory
