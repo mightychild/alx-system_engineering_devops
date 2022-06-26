@@ -1,2 +1,1 @@
-#ALX system devops
-Alx devops
+#This repository is for the 0x00 shell basics project
